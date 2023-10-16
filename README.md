@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bebja
 - 👀 I’m interested in learning new Stuff in MKWii!
-- 🌱 I’m currently learning just everything interesting 
+- 🌱 I’m currently learning just everything interesting
+- ❤️ Currently making my first CT Distribution
 - 📫 How to reach me:
   Discord: Hiiiiii7207
 
