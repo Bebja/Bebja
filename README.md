@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bebja
 - 👀 I’m interested in learning new Stuff in MKWii!
-- ❤️ Currently making my first CT Distribution! You can check it out [here]([url](https://wiki.tockdom.com/wiki/Bebja_Kart_Wii))
+- ❤️ Currently making my first CT Distribution! You can check it out [here](https://wiki.tockdom.com/wiki/Bebja_Kart_Wii)
 - 📫 How to reach me:
   Discord: Hiiiiii7207
 
