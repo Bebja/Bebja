@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Bebja
-- 👀 I’m interested in learning new Stuff in MKWii!
 - ❤️ Currently making my first CT Distribution! You can check it out [here](https://wiki.tockdom.com/wiki/Bebja_Kart_Wii)
-- 📫 How to reach me:
-  Discord: hiiiiii7207
+- 📫 If you need anything or just want to talk, feel free to DM me on Discord! My Username is *bebjaa*!
 
 <!---
 Bebja/Bebja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
